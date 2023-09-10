@@ -1,6 +1,6 @@
 # Game Portal
 
-# Live Link  [Game Portal](game-portal-skbashaop.vercel.app/).
+# Live Link  [Game Portal](https://game-portal-skbashaop.vercel.app/)/).
 # For Big Screens. Results be like -
 ## catogory_searching
 ![Alt text](src/assets/git_reference/big_screen/catogory_searching.png)
