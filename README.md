@@ -1,6 +1,6 @@
 # Game Portal
 
-# Live Link  [Game Portal](https://Game-portal.vercel.app/).
+# Live Link  [Game Portal](game-portal-skbashaop.vercel.app/).
 # For Big Screens. Results be like -
 ## catogory_searching
 ![Alt text](src/assets/git_reference/big_screen/catogory_searching.png)
@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE).
 * https://rawg.io/ `for game DB api`
 * vite
 ---
-make with ~~lust~~ love 💖 by @skbashaop
+make with ~~lust~~ love 💖 by @skBashaOp
